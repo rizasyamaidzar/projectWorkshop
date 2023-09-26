@@ -1,0 +1,51 @@
+.headerp h3{
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.headerp{
+    border-width: 2px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-color: #D9D9D9;
+    margin-bottom: 100px;
+}
+
+/* cv sekawan putra */
+.tagtengah{
+    background-color: #2F414F;
+    /* padding: 50px; */
+    color: #ffff;
+}
+.tagtengah h6{
+    padding-top: 25px;
+    /* padding-left: 20px; */
+}
+.tagtengah img{
+    width: 50px;
+}
+
+/* proyek */
+.proyek{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    background-color: #C7DAD4;
+    /* padding: 20px; */
+}
+.proyek h5{
+    color: #ffff;
+    padding-left: 50px;
+    background-color: #3894A3;
+    border: #3894A3;
+    border-width: 40px;
+    border-style: solid;
+    -ms-transform: skew(-50deg); 
+    -webkit-transform: skew(-50deg);
+    transform: skew(-20deg);
+}
+/* isi proyek */
+.isiproyek{
+    padding-bottom :100px;
+    
+}
